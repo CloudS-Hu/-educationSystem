@@ -1,0 +1,860 @@
+[ 2016-03-02T18:33:47+08:00 ] 127.0.0.1 /jiaowu1/admin.php
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+
+[ 2016-03-02T18:34:22+08:00 ] ERR: (ThinkException) 非法操作:index
+[ 2016-03-02T18:34:39+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000916s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.001109s ]
+SQL: select * from jw_student [ RunTime:0.000263s ]
+
+[ 2016-03-02T18:34:43+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001607s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001763s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000887s ]
+SQL: select * from jw_student [ RunTime:0.000090s ]
+
+[ 2016-03-02T18:56:28+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001240s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000866s ]
+SQL: select * from jw_student [ RunTime:0.000094s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001717s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001826s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  name D:\wamp\www\jiaowu1\admin\Runtime\Cache\20d8d10e745ab3373c32fb996b4212a6.php 第 17 行.
+NOTIC: [8] Undefined index:  name D:\wamp\www\jiaowu1\admin\Runtime\Cache\20d8d10e745ab3373c32fb996b4212a6.php 第 17 行.
+NOTIC: [8] Undefined index:  name D:\wamp\www\jiaowu1\admin\Runtime\Cache\20d8d10e745ab3373c32fb996b4212a6.php 第 17 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.014002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014098s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000971s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000985s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000844s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004452s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001360s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001450s ]
+
+[ 2016-03-02T18:57:05+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000914s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000907s ]
+SQL: select * from jw_student [ RunTime:0.000094s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001539s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001631s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012860s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000969s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000994s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001493s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004396s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001255s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001334s ]
+
+[ 2016-03-02T18:57:11+08:00 ] ERR: (ThinkException) 非法操作:index
+[ 2016-03-02T18:57:32+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001244s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000981s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001065s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.015147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015267s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000694s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000697s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000569s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003027s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000955s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001034s ]
+
+[ 2016-03-02T18:57:32+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/tree
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001108s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001283s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000440s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009573s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000408s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000434s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000272s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002440s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000712s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-03-02T18:57:32+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/default
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001476s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.003309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003496s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000760s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000885s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.021572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021770s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000976s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000889s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000730s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000961s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003925s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001242s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001343s ]
+
+[ 2016-03-02T18:57:37+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000883s ]
+SQL: select * from jw_student [ RunTime:0.000095s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000760s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000856s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011079s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000355s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000368s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001650s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000620s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2016-03-02T19:15:31+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001225s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001335s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000974s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009724s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000655s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000697s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000546s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002946s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002293s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002396s ]
+
+[ 2016-03-02T19:15:31+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/tree
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001075s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001216s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000509s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009233s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000453s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000559s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000326s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002280s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000822s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2016-03-02T19:15:31+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/default
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001246s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000684s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000775s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010470s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000672s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000687s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000542s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004594s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001367s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2016-03-02T19:16:06+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000926s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.018804s ]
+SQL: select * from jw_student [ RunTime:0.000099s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001537s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001630s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013594s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000967s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000999s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001055s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000933s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004216s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001284s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2016-03-02T19:16:25+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001569s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001702s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001460s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010581s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000957s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000985s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000849s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000656s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003657s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.002188s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002296s ]
+
+[ 2016-03-02T19:16:25+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/tree
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001503s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001615s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.012372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012482s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000957s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000980s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000841s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003665s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001717s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001820s ]
+
+[ 2016-03-02T19:16:25+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/default
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.002319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002502s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000419s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000527s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008412s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000345s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000368s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000223s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000510s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001681s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000774s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-03-02T19:17:18+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000909s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000339s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008333s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000334s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000361s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000227s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001623s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000623s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-03-02T19:17:18+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/tree
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001043s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000374s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000484s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008735s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000412s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000527s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000257s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000574s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002039s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000892s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2016-03-02T19:17:18+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/default
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000383s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000478s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007267s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000323s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000362s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000223s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001608s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000620s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2016-03-02T19:17:19+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/showScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000917s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_score` [ RunTime:0.000993s ]
+SQL: SELECT * FROM `jw_score`  [ RunTime:0.000309s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000814s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000926s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index:  uname D:\wamp\www\jiaowu1\admin\Runtime\Cache\1598db699438ba02026e85ea7e37f6ad.php 第 19 行.
+NOTIC: [8] Undefined index:  uname D:\wamp\www\jiaowu1\admin\Runtime\Cache\1598db699438ba02026e85ea7e37f6ad.php 第 19 行.
+NOTIC: [8] Undefined index:  uname D:\wamp\www\jiaowu1\admin\Runtime\Cache\1598db699438ba02026e85ea7e37f6ad.php 第 19 行.
+NOTIC: [8] Undefined index:  uname D:\wamp\www\jiaowu1\admin\Runtime\Cache\1598db699438ba02026e85ea7e37f6ad.php 第 19 行.
+NOTIC: [8] Undefined index:  uname D:\wamp\www\jiaowu1\admin\Runtime\Cache\1598db699438ba02026e85ea7e37f6ad.php 第 19 行.
+INFO: Run ParseTemplate Behavior [ RunTime:0.011046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011143s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000357s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000366s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001645s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000623s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-03-02T19:22:10+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001236s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001422s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001507s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011567s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011676s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001007s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000982s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000844s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003921s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001337s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001426s ]
+
+[ 2016-03-02T19:22:10+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/tree
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000913s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001485s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001593s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011799s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000956s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000982s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000906s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003727s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001268s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001347s ]
+
+[ 2016-03-02T19:22:10+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Index/default
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001248s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.001326s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001430s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.013803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013908s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002384s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000828s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000591s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004983s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000949s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2016-03-02T19:22:12+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/showScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000916s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_score` [ RunTime:0.000939s ]
+SQL: select sc.*,s.uname from jw_score sc,jw_student s where s.id=sc.uid [ RunTime:0.000105s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000771s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000870s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010029s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000349s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000364s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001636s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000623s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-03-02T19:23:48+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/addScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001240s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000995s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000984s ]
+INFO: [ view_template ] --END-- [ RunTime:0.001069s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010106s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000694s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000933s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000633s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003351s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000962s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2016-03-02T19:23:51+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/deleteStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000972s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001094s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000374s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000463s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008344s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000338s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000361s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000234s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001640s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000630s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-03-02T19:23:55+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/addStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000925s ]
+NOTIC: [2] Missing argument 1 for StudentModel::insertStudent(), called in D:\wamp\www\jiaowu1\admin\Lib\Action\StudentAction.class.php on line 13 and defined D:\wamp\www\jiaowu1\admin\Lib\Model\StudentModel.class.php 第 15 行.
+NOTIC: [8] Undefined variable: name D:\wamp\www\jiaowu1\admin\Lib\Model\StudentModel.class.php 第 16 行.
+SQL: insert into jw_student(name) values('') [ RunTime:0.000132s ]
+ERR: Unknown column 'name' in 'field list'
+ [ SQL语句 ] : insert into jw_student(name) values('')
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000790s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000881s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008271s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000380s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000367s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000229s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000634s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2016-03-02T19:24:53+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/deleteStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000443s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000544s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007802s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000330s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000361s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000237s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001642s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000786s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-03-02T19:24:54+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/showScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000924s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_score` [ RunTime:0.000963s ]
+SQL: select sc.*,s.uname from jw_score sc,jw_student s where s.id=sc.uid [ RunTime:0.000111s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000772s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000866s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.010606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010726s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000363s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000367s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000228s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001650s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000622s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-03-02T19:24:55+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/addScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001707s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001844s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000360s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007785s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000331s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000360s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000227s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001618s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000628s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-03-02T19:24:56+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/deleteScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000919s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000345s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000433s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007758s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000940s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000391s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000243s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002313s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000634s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-03-02T19:24:56+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/addScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001477s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001606s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000355s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000444s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007627s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000341s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000377s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000241s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001708s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000664s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000747s ]
+
+[ 2016-03-02T19:24:57+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Score/showScore
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001042s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_score` [ RunTime:0.001028s ]
+SQL: select sc.*,s.uname from jw_score sc,jw_student s where s.id=sc.uid [ RunTime:0.000106s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000537s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000659s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009642s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000455s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000381s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000228s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001780s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000631s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2016-03-02T19:24:57+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/deleteStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000348s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000436s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.008490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008608s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000362s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000364s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001659s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000625s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-03-02T19:24:58+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/addStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.000922s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000865s ]
+NOTIC: [2] Missing argument 1 for StudentModel::insertStudent(), called in D:\wamp\www\jiaowu1\admin\Lib\Action\StudentAction.class.php on line 13 and defined D:\wamp\www\jiaowu1\admin\Lib\Model\StudentModel.class.php 第 15 行.
+NOTIC: [8] Undefined variable: name D:\wamp\www\jiaowu1\admin\Lib\Model\StudentModel.class.php 第 16 行.
+SQL: insert into jw_student(name) values('') [ RunTime:0.000127s ]
+ERR: Unknown column 'name' in 'field list'
+ [ SQL语句 ] : insert into jw_student(name) values('')
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000407s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000497s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.007857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007977s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000335s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000358s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000225s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001654s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000628s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-03-02T19:24:59+08:00 ] 127.0.0.1 /jiaowu1/admin.php/Student/showStudent
+INFO: [ route_check ] --START--
+INFO: Run CheckRoute Behavior [ RunTime:0.001080s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001221s ]
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\wamp\www\jiaowu1\ThinkPHP\Common\functions.php 第 552 行.
+SQL: SHOW COLUMNS FROM `jw_student` [ RunTime:0.000870s ]
+SQL: select * from jw_student [ RunTime:0.000092s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.000772s ]
+INFO: [ view_template ] --END-- [ RunTime:0.000865s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.009853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009969s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000355s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000368s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000232s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000480s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001645s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.000628s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000704s ]
+

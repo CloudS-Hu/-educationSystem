@@ -1,0 +1,25 @@
+@charset "utf-8";
+#edit{
+	border: 1px solid #0D957A;
+	border-radius: 5px;
+	position: relative;
+	top: -200px;
+	left: 120px;
+	max-width: 300px;
+	height: 300px;
+	text-align: center;
+	display: none;
+	background: #fff;
+}
+ul,li{
+	list-style-type: none;
+}
+#edit_title{
+	height: 30px;
+}
+#e_ul li{
+	height: 40px;
+}
+#e_ul li input{
+	height: 30px;
+}

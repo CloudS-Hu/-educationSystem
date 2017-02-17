@@ -1,0 +1,26 @@
+<?php if (!defined('THINK_PATH')) exit();?>
+		<div>
+			<button>查询</button>
+			<button>修改</button>
+			<button>删除</button>
+		</div>
+		<table border="1" style="width: 600px;text-align: center;height: 300px;">
+			<tr>
+				<td>选择</td>
+				<td>学号</td>
+				<td>姓名</td>
+				<td>性别</td>
+				<td>年龄</td>
+			</tr>
+			<tr>
+				<td>
+					<input type="checkbox" />
+				</td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			
+			
+		</table>

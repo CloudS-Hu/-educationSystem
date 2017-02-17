@@ -1,0 +1,23 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<ul>
+			<li>学生信息查询</li>
+			<ul>
+				<a href="__APP__/Student/showStudent" target="11"><li>查看学生信息</li></a>
+				<a href="__APP__/Student/addStudent" target="11"><li>添加学生信息</li></a>
+				<a href="__APP__/Student/deleteStudent" target="11"><li>删除学生信息</li></a>
+			</ul>
+		    <li>成绩查询</li>
+		    <ul>
+		    	<a href="__APP__/Score/showScore" target="11"><li>查看学生成绩</li></a>
+		    	<a href="__APP__/Score/addScore" target="11"><li>更改学生成绩</li></a>
+		    	<a href="__APP__/Score/deleteScore" target="11"><li>删除学生成绩</li></a>
+		    </ul>
+		</ul>
+	</body>
+</html>

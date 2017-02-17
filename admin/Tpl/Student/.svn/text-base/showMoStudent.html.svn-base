@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<div>
+		<table border="1" style="width: 600px;text-align: center;height: 100px;">
+			<tr>
+				<td>选择</td>
+				<td>学号</td>
+				<td>姓名</td>
+				<td>性别</td>
+				<td>年龄</td>
+				<td>操作</td>
+			</tr>
+		<volist name="list1" id="vo">
+			<tr>
+				<td>
+					<input type="checkbox" />
+				</td>
+				<td>{$vo.id}</td>
+				<td>{$vo.uname}</td>
+				<td>{$vo.sex}</td>
+				<td>{$vo.age}</td>
+				<td>
+			<button id="xiugai">修改</button>
+			<button>删除</button></td>
+			</tr>
+		</volist>
+			
+		</table>
+		
+		</div>
+	</body>
+</html>
